@@ -1,5 +1,4 @@
-FROM dstacademy/gosu:0.1
-MAINTAINER DST Academy <support@dst.academy>
+FROM gosu:latest
 
 # Set build arguments.
 ARG STEAM_USER
